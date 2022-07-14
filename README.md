@@ -1,6 +1,3 @@
-# react-restaurant-page-example
-
-
 
 
 
